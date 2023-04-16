@@ -87,7 +87,7 @@
   },
   "files": [
     "dist/css/*.{css,map}",
-    "scss/**/*.scss",
+    "scss/**/*.scss"
   ],
   "hugo-bin": {
     "buildTags": "extended"
