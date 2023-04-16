@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/gtoy1118/bigSur.css/">
-    <img src="assets/logos/shadow.png" alt="bigSur.css logo" width="200" height="200">
+    <img src="assets/logos/shadow.png" alt="bigSur.css logo" width="512" height="512">
   </a>
 </p>
 
