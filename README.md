@@ -20,36 +20,22 @@
 
 ## Bootstrap 5
 
-Our default branch is for development of our Bootstrap 5 release. Head to the [`v4-dev` branch](https://github.com/twbs/bootstrap/tree/v4-dev) to view the readme, documentation, and source code for Bootstrap 4.
+A bootstrap based CSS library built on SASS. Themed after Apples macOS 11.0.
 
 
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [Status](#status)
 - [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Community](#community)
-- [Versioning](#versioning)
-- [Creators](#creators)
-- [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
 
 
 ## Quick start
 
-Several quick start options are available:
+One quick start option is available:
 
-- [Download the latest release](https://github.com/twbs/bootstrap/archive/v5.3.0-alpha3.zip)
-- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
-- Install with [npm](https://www.npmjs.com/): `npm install bootstrap@v5.3.0-alpha3`
-- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap@v5.3.0-alpha3`
-- Install with [Composer](https://getcomposer.org/): `composer require twbs/bootstrap:5.3.0-alpha3`
-- Install with [NuGet](https://www.nuget.org/): CSS: `Install-Package bootstrap` Sass: `Install-Package bootstrap.sass`
-
-Read the [Getting started page](https://getbootstrap.com/docs/5.3/getting-started/introduction/) for information on the framework contents, templates, examples, and more.
+- [Download the latest release](https://github.com/gtoy1118/bigSur.css/)
+- Clone the repo: `git clone https://github.com/gtoy1118/bigSur.css.git`
 
 ## What's included
 
