@@ -1,5 +1,5 @@
 {
-  "name": "bigSur.css",
+  "name": "@gtoy1118/bigSur.css",
   "description": "A bootstrap based CSS library built on SASS. Themed after Apples macOS 11.0.",
   "version": "1.0.1",
   "config": {
@@ -17,6 +17,9 @@
   "author": {
     "name": "gtoy1118",
     "email": "axcontact1@gmail.com",
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/gtoy1118"
   },
   "license": "MIT",
   "repository": {
