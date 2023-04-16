@@ -59,7 +59,7 @@ Within the download you'll find the following directories and files, logically g
   ```
 </details>
 
-We provide compiled CSS (`bigSur.*`), as well as compiled and minified CSS (`bigSur.min.*`). [Source maps](https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps) (`bigSur.*.map`) are available for use with certain browsers' developer tools. For javaScript, use Bootstrap JS.
+We provide compiled CSS (`bigSur.*`), as well as compiled and minified CSS (`bigSur.min.*`). [Source maps](https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps) (`bigSur.*.map`) are available for use with certain browsers' developer tools. For javaScript, use [Bootstrap JS by twbs](https://github.com/twbs/bootstrap/).
 
 
 ## Authors
