@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/gtoy1118/bigSur.css/">
-    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
+    <img src="assets/logos/shadow.png" alt="bigSur.css logo" width="200" height="200">
   </a>
 </p>
 
-<h3 align="center">Bootstrap</h3>
+<h3 align="center">bigSur.css</h3>
 
 <p align="center">
   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
@@ -18,7 +18,7 @@
 </p>
 
 
-## Bootstrap 5
+## bigSur.css
 
 A bootstrap based CSS library built on SASS. Themed after Apples macOS 11.0.
 
