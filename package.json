@@ -1,7 +1,7 @@
 {
   "name": "@gtoy1118/bigSur.css",
   "description": "A bootstrap based CSS library built on SASS. Themed after Apples macOS 11.0.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "config": {
     "version_short": "1.0"
   },
