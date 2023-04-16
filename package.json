@@ -1,7 +1,7 @@
 {
   "name": "bigSur.css",
   "description": "A bootstrap based CSS library built on SASS. Themed after Apples macOS 11.0.",
-  "version": "1.0.0-alpha1",
+  "version": "1.0.1",
   "config": {
     "version_short": "1.0"
   },
@@ -14,7 +14,10 @@
     "framework",
     "web"
   ],
-  "author": "The Bootstrap Authors (https://github.com/gtoy1118/bigSur.css/graphs/contributors)",
+  "author": {
+    "name": "gtoy1118",
+    "email": "axcontact1@gmail.com",
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
