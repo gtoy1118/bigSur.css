@@ -30,7 +30,7 @@
     "url": "https://github.com/gtoy1118/bigSur.css/issues"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"hi\""
   },
   "sass": "scss/bigSur.scss",
   "style": "dist/css/bigSur.css",
